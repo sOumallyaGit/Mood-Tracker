@@ -20,7 +20,7 @@ Mood Tracker is a simple web application that allows users to log their daily mo
 
 ### The Mood Tracker interface is designed to be as minimalistic as possible
 
-<img width="1470" alt="Screenshot 2025-03-20 at 10 36 19 AM" src="https://github.com/user-attachments/assets/f5b9af45-67a4-4309-813f-81025e7cc2d4" />
+<img width="1470" alt="Screenshot 2025-03-20 at 10 36 41 AM" src="https://github.com/user-attachments/assets/df00066f-3523-4845-9611-a57138daa54e" />
 
 - A bold header displaying the application name.
 
