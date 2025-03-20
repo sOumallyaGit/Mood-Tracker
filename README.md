@@ -52,6 +52,21 @@ Mood Tracker is a simple web application that allows users to log their daily mo
 
 ## Deployment
 
-You can get the live demo of this on the link :- https://mood-tracker-dusky.vercel.app/
+You can get the live demo of this on the following link : https://mood-tracker-dusky.vercel.app/
+
+## Installation
+
+If you want to run the project locally do the following steps :
+
+1. Clone the repository:
+
+2. Navigate to the project directory:
+
+3. Open index.html in a web browser.
+
+## License
+
+This project is licensed under the MIT License.
+
 
 
