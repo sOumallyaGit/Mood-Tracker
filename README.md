@@ -38,4 +38,20 @@ Mood Tracker is a simple web application that allows users to log their daily mo
 
 * **JavaScript**: Interactivity and local storage implementation
 
+## How to Use
+
+1. Open the application in a web browser.
+
+2. Select your current mood from the dropdown menu.
+
+3. Click on the Add your mood button to log your mood.
+
+4. View your mood history below.
+
+5. Click Clear History to reset your mood logs.
+
+## Deployment
+
+You can get the live demo of this on the link :- https://mood-tracker-dusky.vercel.app/
+
 
