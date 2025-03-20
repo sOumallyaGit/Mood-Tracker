@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mood Tracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1 class="heading">Mood Tracker 🤫</h1>
+    <div class="main">
+        <div class="drop-down">
+            <label for="mood">Please Select Your Mood :</label>
+            <select id="mood">
+                <option value="happy">Happy 😄</option>
+                <option value="content">Content 😌</option>
+                <option value="excited">Excited 🤩</option>
+                <option value="love">Love ❤️</option>
+                <option value="relieved">Relieved 😮‍💨</option>
+                <option value="proud">Proud 👏</option>
+                <option value="calm">Calm 🧘</option>
+                <option value="thinking">Thinking 🤔</option>
+                <option value="skeptical">Skeptical 🤨</option>
+                <option value="neutral">Neutral 😐</option>
+                <option value="surprised">Surprised 😮</option>
+                <option value="sleepy">Sleepy 😴</option>
+                <option value="shy">Shy 😳</option>
+                <option value="sad">Sad 😢</option>
+                <option value="angry">Angry 😠</option>
+                <option value="frustrated">Frustrated 😫</option>
+                <option value="anxious">Anxious 😟</option>
+                <option value="disgusted">Disgusted 🤢</option>
+                <option value="afraid">Afraid 😨</option>
+                <option value="sick">Sick 🤒</option>
+                <option value="bored">Bored 🙄</option>
+                <option value="confused">Confused 😕</option>
+                <option value="embarrassed">Embarrassed 🥺</option>
+                <option value="hurt">Hurt 🤕</option>
+                <option value="nervous">Nervous 😬</option>
+                <option value="stressed">Stressed 😩</option>
+                <option value="upset">Angry 😡</option>
+            </select>
+        </div>
+
+        <div class="button">
+            <button id="addMood" class="btn">Add your mood</button>
+            <button id="clearMoods" class="btn">Clear History</button> 
+        </div>
+
+        <div class="mood-his">
+            <h3 class="sub-heading">Your Mood Logs</h3>
+            <ul id="ul">
+            </ul>
+        </div>
+    </div>
+    <script src="index.js"></script>
+</body>
+
+</html>
