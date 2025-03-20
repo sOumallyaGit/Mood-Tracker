@@ -30,6 +30,12 @@ Mood Tracker is a simple web application that allows users to log their daily mo
 
 - A section for mood logs, which updates dynamically when a new mood is added.
 
+## Technologies Used 
 
+- **HTML**: Structure of the web page
+
++ **CSS**: Styling and layout
+
+* **JavaScript**: Interactivity and local storage implementation
 
 
